@@ -1,0 +1,17 @@
+{
+  "sizes": [
+    1000,
+    10000,
+    100000,
+    1000000,
+    3000000,
+    10000000
+  ],
+  "queries": 100000,
+  "repeats": 3,
+  "seed": 42,
+  "orders": [
+    "random"
+  ],
+  "data_dir": "data/notebook-initial-20261023"
+}
